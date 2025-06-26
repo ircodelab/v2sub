@@ -1,4 +1,4 @@
-# کانال تلگرام ما: https://t.me/icodelab
+# کانال تلگرام ما: https://t.me/ircodelab
 
 trojan://apVx0aqo0m@bel1.ftpcomand.com:110?sni=bel1.ftpcomand.com#Telegram: @ircodelab
 trojan://MFlY1Kx7BL@beld.ftpcomand.com:110?sni=beld.ftpcomand.com#Telegram: @ircodelab
