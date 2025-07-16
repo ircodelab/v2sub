@@ -1,5 +1,5 @@
 # کانال تلگرام ما: https://t.me/ircodelab
-# 1752625801
+# 1752633001
 trojan://apVx0aqo0m@bel1.ftpcomand.com:110?sni=bel1.ftpcomand.com#Telegram: @ircodelab
 trojan://MFlY1Kx7BL@beld.ftpcomand.com:110?sni=beld.ftpcomand.com#Telegram: @ircodelab
 trojan://8Pz3Kz5qbA@cdn.hmdbackup.com:8880#Telegram: @ircodelab
@@ -14,7 +14,7 @@ trojan://B9q0cEgwn4@cat.ftpcomand.com:110?sni=cat.ftpcomand.com#Telegram: @ircod
 vless://e057fbe1-a0d4-4a00-8552-acf7d3855102@cdn.bbbsoft.ir:8443?encryption=none&type=ws&path=%2FOS%2FWin11%2Fwindows11_lastupdate.ISO&security=tls#Telegram: @ircodelab
 trojan://JJz5IU80CW@dei.ftpcomand.com:110?sni=dei.ftpcomand.com#Telegram: @ircodelab
 trojan://QJAHK0w2PB@cdn.hmdbackup.com:8080#Telegram: @ircodelab
-vless://79be1104-fdea-4f7e-9d8b-33d7d677bfab@cdn.hmdbackup.com:8443?encryption=none&type=ws&path=%2FOS%2FWin11%2F24H2%2F26100.3915.250423-1140.GE_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US-www.hmdbackup.com.ISO&security=tls#Telegram: @ircodelab
+vless://79be1104-fdea-4f7e-9d8b-33d7d677bfab@love.ns.cloudflare.com:8443?encryption=none&type=ws&path=%2FOS%2FWin11%2F24H2%2F26100.3915.250423-1140.GE_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US-www.hmdbackup.com.ISO&security=tls#Telegram: @ircodelab
 trojan://cbOTYmcc30@dk1.ftpcomand.com:110?sni=dk1.ftpcomand.com#Telegram: @ircodelab
 trojan://dZx2aHBTwv@dkd.ftpcomand.com:110?sni=dkd.ftpcomand.com#Telegram: @ircodelab
 trojan://4CjgrQ3xAx@cdn.hmdbackup.com:8880#Telegram: @ircodelab
