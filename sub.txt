@@ -1,5 +1,5 @@
 # کانال تلگرام ما: https://t.me/ircodelab
-# 1755109801
+# 1755117001
 trojan://apVx0aqo0m@bel1.ftpcomand.com:110?sni=bel1.ftpcomand.com#Telegram: @ircodelab
 trojan://MFlY1Kx7BL@beld.ftpcomand.com:110?sni=beld.ftpcomand.com#Telegram: @ircodelab
 trojan://8Pz3Kz5qbA@cdn.hmdbackup.com:8880#Telegram: @ircodelab
